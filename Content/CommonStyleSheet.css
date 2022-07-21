@@ -1,0 +1,48 @@
+﻿h2 {
+    margin-top: 31px;
+    margin-left: 50px;
+    color: #339ed3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+h6 {
+    margin: 50px 0px 50px 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #494d50;
+}
+
+h5 {
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    color: #716F81;
+}
+
+.txt {
+    margin: auto;
+    margin-top: 20px;
+    width: 500px;
+}
+
+#btn {
+    margin: 30px 0 30px 565px;
+}
+
+#btn2 {
+    margin: 30px 0px 30px 620px;
+}
+
+#subject {
+    margin: 50px 0px 0px 450px;
+}
+
+
+/*CPI*/
+
+.txt1 {
+   
+    margin-top: 20px;
+    width: 500px;
+}
